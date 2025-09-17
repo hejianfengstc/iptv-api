@@ -1,13 +1,16 @@
 🕘️更新时间,#genre#
-2025-09-17 18:32:12,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+2025-09-18 06:25:48,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 
@@ -17,21 +20,19 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 
 💰央视付费频道,#genre#
 
@@ -39,7 +40,6 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
