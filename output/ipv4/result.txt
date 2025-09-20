@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-20 06:27:38,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+2025-09-20 18:30:07,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 
 📺央视频道,#genre#
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
@@ -7,13 +7,21 @@ CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 
 ☘️北京频道,#genre#
+北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 📡卫视频道,#genre#
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+
+💰央视付费频道,#genre#
+第一剧场,http://iptv.4666888.xyz/iptv2.php?id=13
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
