@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-24 18:30:36,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
+2025-09-25 06:27:36,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
