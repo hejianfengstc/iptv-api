@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-25 18:40:02,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-09-26 06:28:20,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
